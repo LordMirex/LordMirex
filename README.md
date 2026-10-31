@@ -1,5 +1,5 @@
 
-# 👋 @LordMirex
+# 👋
 Full-stack developer. Backend-heavy. Laravel, PHP, SaaS, APIs, Linux VPS.
 
 ---
@@ -15,5 +15,3 @@ Full-stack developer. Backend-heavy. Laravel, PHP, SaaS, APIs, Linux VPS.
 ---
 
 ⚡ I build systems that solve real operational problems and automate workflows.
-
-📫 oghoghoobianke@gmail.com · [X](https://x.com/lordmirex001) · [TikTok](https://tiktok.com/@mirextech)
